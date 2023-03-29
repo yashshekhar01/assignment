@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.about-title {
+    text-align: center;
+  margin: 6rem;
+  font-size: 2rem;
+}
+/* .about-title-cp{
+    text-align: center;
+  margin-top: 1px;
+  font-size: 2rem;
+} */
+.p1 {
+    color: black(2, 2, 2);
+    margin: 3rem;
+    font-size: 19px;
+  }
+ .p2{
+    color: black(2, 2, 2);
+    margin-left: 3rem;
+    font-size: 30px;
+  }
+  .p3{
+    color: black(2, 2, 2);
+    margin-top: 30px;
+    margin-left: 3rem;
+    font-size: 20px;
+  }
+  .p4{
+    color: black(2, 2, 2);
+    margin-top: 30px;
+    margin-left: 3rem;
+    font-size: 20px;
+    font-weight: 700;
+  }
+ .li-space{
+    margin-top: 9px;
+ }
+  
+ 
+
+
+
+
+
+
+
+
+ 
